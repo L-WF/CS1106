@@ -1,0 +1,91 @@
+.modules {
+    width:960px;
+    height:386px;
+}
+.modules .module {
+    width:238px;
+    height:193px;
+    position:relative;
+    float:left;
+    font-size:40px;
+    vertical-align:middle;
+    margin:1px;
+}
+.modules .module h1 {
+    width:100%;
+    text-align:center;
+    position:absolute;
+    top:72px;
+    color:#fff;
+    font:Helvetica,arial;
+}
+.modules .module a {
+    display:block;
+    height:100%;
+    position:relative;
+    z-index:1;
+    text-indent:-9999px;
+    overflow:hidden;
+}
+
+.ky {
+    background-color:#88b613;
+}
+.ky:hover {
+    background-color:#719500;
+}
+
+.xl {
+    background-color:#db7042;
+}
+.xl:hover {
+    background-color:#e34e35;
+}
+
+.js {
+    background-color:#e89c2e;
+}
+.js:hover {
+    background-color:#ef8200;
+}
+
+.zl {
+    background-color:#29963b;
+}
+.zl:hover {
+    background-color:#39892f;
+}
+
+.ty {
+    background-color:#5266fa;
+}
+.ty:hover {
+    background-color:#7181f8;
+}
+
+.jy {
+    background-color:#e469e4;
+}
+.jy:hover {
+    background-color:#f821f8;
+}
+
+.bf {
+    background-color:#4c5269;
+}
+.bf:hover {
+    background-color:#414c74;
+}
+
+.yx {
+    background-color:#dcf71b;
+}
+.yx:hover {
+    background-color:#c4dd0f;
+}
+
+#footer {
+    font:arial;
+    color:#999;
+    text-align:center;
+}
